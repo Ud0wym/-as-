@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+}
+
+body {
+    color: #fff;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: url(images/cunami.png) no-repeat no-repeat center/cover;
+    padding: 0;
+    margin: 0;
+}
+
+/* Header */
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+.navigation li {
+    display: inline-block;
+}
+  
+.navigation li a {
+    color: #fff;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    padding-top: 60px;
+}
+
+.logo-item .logo-img {
+    padding: 20px 200px 20px 20px;
+    height: 100px;
+}
+
+
+
+
+
+.about h2 {
+    padding: 20px 20px 20px 200px ;
+    font-size: 50px;
+    padding-top: 100px;
+}
+
+.about p {
+    padding: 10px 20px 20px 200px;
+    font-size: 24px;
+}
+
+.causes h2 {
+    padding: 20px 20px 20px 200px ;
+    font-size: 50px;
+}
+
+.causes p {
+    padding: 20px 20px 20px 200px ;
+    font-size: 24px;
+}
+
+.causes ul {
+    padding: 20px 20px 20px 200px ;
+    font-size: 24px;
+}
+
+.effects h2 {
+    padding: 20px 20px 20px 200px ;
+    font-size: 50px;
+}
+
+.effects p {
+    padding: 20px 20px 20px 200px ;
+    font-size: 24px;
+}
+
+.effects ul {
+    padding: 20px 20px 20px 200px ;
+    font-size: 24px;
+}
+
+.prevention h2 {
+    padding: 20px 20px 20px 200px ;
+    font-size: 50px;
+}
+
+.prevention p {
+    padding: 20px 20px 20px 200px ;
+    font-size: 24px;
+}
+
+.prevention ul {
+    padding: 20px 20px 20px 200px ;
+    font-size: 24px;
+    padding-bottom: 200px;
+}
+
+footer {
+    background-color: #fff;
+    padding: 20px 20px;
+}
+
+footer p {
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+
